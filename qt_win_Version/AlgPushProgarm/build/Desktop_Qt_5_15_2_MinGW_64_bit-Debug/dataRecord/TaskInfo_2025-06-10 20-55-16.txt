@@ -1,0 +1,7 @@
+CurTime:2025-06-10 20-55-16;simTime:0;center0:[0,0];center1:[188432,0];radius:2032;expSpeed:[160,1472];expAngle:2672
+formation-type:144;usvId:128;distance:16592,angle:2672,
+formation-type:144;usvId:144;distance:16592,angle:14832,
+formation-type:144;usvId:160;distance:16592,angle:1712,
+formation-type:144;usvId:176;distance:14832,angle:14352,
+formation-type:144;usvId:192;distance:14832,angle:2192,
+formation-type:128;usvId:208;distance:0,angle:2672,

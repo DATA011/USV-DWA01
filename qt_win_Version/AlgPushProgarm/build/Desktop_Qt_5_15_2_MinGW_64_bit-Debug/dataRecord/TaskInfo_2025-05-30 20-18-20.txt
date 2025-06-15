@@ -1,0 +1,9 @@
+CurTime:2025-05-30 20-18-20;simTime:0;center0:[0,0];center1:[188432,0];radius:2032;expSpeed:[160,1472];expAngle:2672
+formation-type:144;usvId:128;distance:17232,angle:2672,
+formation-type:144;usvId:144;distance:15824,angle:1952,
+formation-type:128;usvId:160;distance:0,angle:2672,
+formation-type:144;usvId:176;distance:14832,angle:0,
+formation-type:144;usvId:192;distance:15824,angle:14592,
+formation-type:144;usvId:208;distance:14832,angle:2672,
+formation-type:144;usvId:224;distance:14832,angle:16752,
+formation-type:144;usvId:240;distance:14832,angle:15312,
